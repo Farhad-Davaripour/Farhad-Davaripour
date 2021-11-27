@@ -13,7 +13,7 @@
 
 - I am a finite element specialist with 3 years of experience working in research and development roles. I have a knack for problem-solving and (recently) found my passion in data science (I am in training).
 - 🌱 Currently I am taking the data science fundamental courses as a part of IBM Data Science Professional Certificate. 
-- In here I am sharing the codes I develop as a part of my training.
+- 🌍 In here I am sharing the codes I develop as a part of my training.
 
 - 📫 Connect with me on:
   - :office: [LinkedIn](https://www.linkedin.com/in/farhad-davaripour/)
