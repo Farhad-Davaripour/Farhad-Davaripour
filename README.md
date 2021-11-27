@@ -15,5 +15,4 @@
 - 🌱 Currently I am taking the data science fundamental courses as a part of [IBM Data Science Professional Certificate.](https://www.coursera.org/professional-certificates/ibm-data-science?#courses) 
 - 🌍 In here I am sharing the codes I develop as a part of my training.
 
-- 📫 Connect with me on:
-  - :office: [LinkedIn](https://www.linkedin.com/in/farhad-davaripour/)
+- 📫 Feel free to connect with me on [LinkedIn.](https://www.linkedin.com/in/farhad-davaripour/)
