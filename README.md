@@ -1,6 +1,6 @@
 <!-- Please don't remove this: Grab your social icons from https://github.com/carlsednaoui/gitsocial -->
 
-### Hi there. I'm Farhad Davaripour 👋
+### Hi there. I'm Farhad Davaripour
 
 <!--
 **farhad-davaripour/farhad-davaripour** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
